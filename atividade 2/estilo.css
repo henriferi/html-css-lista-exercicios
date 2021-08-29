@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    font-size: 20px;
+    border-bottom: 3px solid black;
+    display: inline-block;
+    width: 50%;
+    font-family: sans-serif;
+}
+#table,th,td{
+    border: 1px;
+    border-color:whitesmoke;
+    border-style: inset;
+    border-width: 5px;
+    width: 200px;
+}
+table {
+    border-collapse: collapse;
+}
+.grey{
+    background-color: grey;
+}
+.centro-verde{
+    text-align: center;
+    color: green;
+}
+.centro-vermelho{
+    text-align: center;
+    color: red;
+}
+.italic{
+    font-style: italic;
+}
